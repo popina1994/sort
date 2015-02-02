@@ -1,0 +1,107 @@
+# depslib dependency file v1.0
+1422301892 source:/home/popina/Copy/Programs/ASP/Sort/main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	"Array.h"
+	"InsertionSort.h"
+	"ShellSort.h"
+	"SelectionSort.h"
+	"QuadraticSelectionSort.h"
+	"BinaryTreeSort.h"
+	"HeapSort.h"
+	"BubbleSort.h"
+	"QuickSort.h"
+	"MergeSort.h"
+
+1422197642 source:/home/popina/Copy/Programs/ASP/Sort/Sort.cpp
+	"Sort.h"
+	<cmath>
+	<algorithm>
+	<queue>
+	<climits>
+
+1422204129 /home/popina/Copy/Programs/ASP/Sort/Sort.h
+	<string>
+	<iostream>
+	<vector>
+
+1422197641 source:/home/popina/Copy/Programs/ASP/Sort/Array.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<vector>
+	<cmath>
+	"Array.h"
+
+1422198212 /home/popina/Copy/Programs/ASP/Sort/Array.h
+	<iostream>
+	<vector>
+	<string>
+	"Sort.h"
+	"InsertionSort.h"
+
+1422197801 /home/popina/Copy/Programs/ASP/Sort/InsertionSort.h
+	"Sort.h"
+
+1422197634 source:/home/popina/Copy/Programs/ASP/Sort/InsertionSort.cpp
+	"InsertionSort.h"
+
+1422197819 /home/popina/Copy/Programs/ASP/Sort/ShellSort.h
+	"Sort.h"
+
+1422197620 source:/home/popina/Copy/Programs/ASP/Sort/ShellSort.cpp
+	"ShellSort.h"
+	<cmath>
+
+1422197826 /home/popina/Copy/Programs/ASP/Sort/SelectionSort.h
+	"Sort.h"
+
+1422197626 source:/home/popina/Copy/Programs/ASP/Sort/SelectionSort.cpp
+	"SelectionSort.h"
+
+1422197831 /home/popina/Copy/Programs/ASP/Sort/QuadraticSelectionSort.h
+	"Sort.h"
+
+1422197636 source:/home/popina/Copy/Programs/ASP/Sort/QuadraticSelectionSort.cpp
+	"QuadraticSelectionSort.h"
+	<cmath>
+	<queue>
+
+1422200404 source:/home/popina/Copy/Programs/ASP/Sort/BinaryTreeSort.cpp
+	"BinaryTreeSort.h"
+	<queue>
+
+1422199296 /home/popina/Copy/Programs/ASP/Sort/BinaryTreeSort.h
+	"Sort.h"
+
+1422204508 source:/home/popina/Copy/Programs/ASP/Sort/HeapSort.cpp
+	"HeapSort.h"
+	"Sort.h"
+	<vector>
+	<algorithm>
+
+1422204233 /home/popina/Copy/Programs/ASP/Sort/HeapSort.h
+	"Sort.h"
+	<vector>
+
+1422265889 /home/popina/Copy/Programs/ASP/Sort/BubbleSort.h
+	"Sort.h"
+
+1422266223 source:/home/popina/Copy/Programs/ASP/Sort/BubbleSort.cpp
+	"BubbleSort.h"
+	<algorithm>
+
+1422277524 source:/home/popina/Copy/Programs/ASP/Sort/QuickSort.cpp
+	<algorithm>
+	"QuickSort.h"
+
+1422271406 /home/popina/Copy/Programs/ASP/Sort/QuickSort.h
+	"Sort.h"
+
+1422302111 source:/home/popina/Copy/Programs/ASP/Sort/MergeSort.cpp
+	"MergeSort.h"
+
+1422302092 /home/popina/Copy/Programs/ASP/Sort/MergeSort.h
+	"Sort.h"
+
